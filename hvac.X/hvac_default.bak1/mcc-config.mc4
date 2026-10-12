@@ -1,0 +1,12 @@
+configVersion: 1.0.0
+coreVersion: 5.9.0
+device: PIC32CM1216MC00032
+deviceLibrary: {}
+groupModules: []
+modules:
+- cmsis
+- core
+- dfp
+- evsys
+- nvmctrl
+generatedFileHashHistoryMap: []
